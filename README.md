@@ -3,13 +3,13 @@ After cloning, create a virtual environment and install the requirements. For Li
 
     $ virtualenv env
     $ source env/bin/activate
-    (env) $ pip install Flask PyMongo
+    (env) $ pip install Flask PyMongo flask-pymongo
 
 If you are on Windows, then use the following commands instead:
 
     $ virtualenv venv
     $ env\Scripts\activate
-    (env) $ pip install Flask PyMongo
+    (env) $ pip install Flask PyMongo flask-pymongo
 
 Running
 -------
